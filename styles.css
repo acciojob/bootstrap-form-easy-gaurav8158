@@ -29,3 +29,12 @@ border: none;
 #year:invalid + .alert {
     display: block;
   }
+form{
+	padding:10px;
+	border:1px solid black;
+	display:flex;
+	flex-wrap:wrap;
+	flex-direction:column;
+	justify-content:start;
+	align-content:start;
+}
